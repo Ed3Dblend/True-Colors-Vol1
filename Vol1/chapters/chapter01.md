@@ -4,7 +4,7 @@
 
 
 <p align="center">
-# Chapter 1 – A New Name
+Chapter 1 – A New Name
 </p>
 
 
