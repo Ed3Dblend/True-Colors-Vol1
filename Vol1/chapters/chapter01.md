@@ -6,7 +6,9 @@
 <p align="center">
 Chapter 1 – A New Name
 </p>
-
+<p align="center">
+  <img src="../images/chapter01/b02.png" alt="Cover Art" width="400">
+</p>
 
 A girl awoke with a gasp, her breath sharp in the air. She was lying on a cold, metallic surface, surrounded by endless black. There were no stars. No wind. No walls. Just void.
  As she pushed herself up, the heavy weight of a strange black robe shifted around her shoulders. Thin white streaks ran across the fabric, and her damp hair clung to her skin.
@@ -26,6 +28,9 @@ A girl awoke with a gasp, her breath sharp in the air. She was lying on a cold, 
  Then—
  SYSTEM: Initiating... [NAME NOT FOUND].... Reconstructing soulprint... ERROR — MEMORY TRACE INVALID… Fallback activated. Imagination sequence started.
  SYSTEM: Restarting… Restarting… Complete.
+<p align="center">
+  <img src="../images/chapter01/b05.png" alt="Cover Art" width="400">
+</p>
 The girl froze. The voice was deep, mechanical, and omnipresent—like it came from the void itself.
  SYSTEM: From now on, you will be known as IMA… Please... enjoy your adventure.
  Silence.
