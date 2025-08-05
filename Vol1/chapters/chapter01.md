@@ -1,4 +1,7 @@
-![Cover Art](../images/chapter01/b01.png)
+<p align="center">
+  <img src="../images/chapter01/b01.png" alt="Cover Art" width="400">
+</p>
+
 
 Chapter 1 – A New Name
 
