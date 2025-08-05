@@ -1,6 +1,6 @@
-# Chapter 1 – A New Name
+![Cover Art](../images/chapter01/000.png)
 
-![Cover Art](../images/chapter01/cover.png)
+Chapter 1 – A New Name
 
 A girl awoke with a gasp, her breath sharp in the air. She was lying on a cold, metallic surface, surrounded by endless black. There were no stars. No wind. No walls. Just void.
  As she pushed herself up, the heavy weight of a strange black robe shifted around her shoulders. Thin white streaks ran across the fabric, and her damp hair clung to her skin.
