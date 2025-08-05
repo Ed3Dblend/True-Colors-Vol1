@@ -3,7 +3,10 @@
 </p>
 
 
-Chapter 1 – A New Name
+<p align="center">
+# Chapter 1 – A New Name
+</p>
+
 
 A girl awoke with a gasp, her breath sharp in the air. She was lying on a cold, metallic surface, surrounded by endless black.
 <p align="center">
