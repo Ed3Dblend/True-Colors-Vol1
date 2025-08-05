@@ -1,4 +1,4 @@
-![Cover Art](../images/chapter01/000.png)
+![Cover Art](../images/chapter01/b01.png)
 
 Chapter 1 – A New Name
 
